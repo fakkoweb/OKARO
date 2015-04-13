@@ -1,0 +1,3 @@
+[submodule "VirtualDeviceToolkit"]
+	path = VirtualDeviceToolkit
+	url = https://github.com/fakkoweb/VirtualDeviceToolkit.git
